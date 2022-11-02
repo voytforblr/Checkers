@@ -1,0 +1,6 @@
+﻿  GameScreen.cpp
+D:\CHEKERS\Checkers\Button.h(21,2): warning C4091: static : пропускается слева от "Button", когда ни одна переменная не объявлена
+D:\CHEKERS\Checkers\Button.h(8,1): warning C4312: reinterpret_cast: преобразование из "int" в "HMENU" большего размера
+D:\CHEKERS\Checkers\GameScreen.cpp(145,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\CHEKERS\Checkers\GameScreen.cpp(147,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Checkers.vcxproj -> D:\CHEKERS\x64\Debug\Checkers.exe
